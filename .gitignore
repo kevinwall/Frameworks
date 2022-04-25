@@ -1,6 +1,6 @@
-/Tab/node_modules
-/Tab/.vscode
-/Tab/.angular/*
-/Tab/public/build
-/Tab/dist
-/Tab/build
+/quiz/node_modules
+/quiz/.vscode
+/quiz/.angular/*
+/quiz/public/build
+/quiz/dist
+/quiz/build
